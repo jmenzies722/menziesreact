@@ -6,12 +6,12 @@ export const HeroContainer = styled.div`
   display: flex;
   justify-content: center;
   position: relative;
-  padding: 80px 30px;
+  padding: 170px 30px;
   @media (max-width: 960px) {
-    padding: 66px 16px;
+    padding: 30px 16px;
   }
   @media (max-width: 640) {
-    padding: 32px 16px;
+    padding: 25px 16px;
   }
   z-index: 1;
 
@@ -31,6 +31,7 @@ export const HeroBg = styled.div`
   max-width: 1360px;
   overflow: hidden;
   padding: 0 30px;
+  margin-top: -130px;
   top: 50%;
   left: 50%;
   -webkit-transform: translateX(-50%) translateY(-50%);

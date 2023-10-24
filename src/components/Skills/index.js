@@ -7,6 +7,7 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 position: relative;
+padding: 100px 30px;
 z-index: 1;
 align-items: center;
 `
@@ -32,7 +33,7 @@ font-weight: 600;
 margin-top: 20px;
   color: ${({ theme }) => theme.text_primary};
   @media (max-width: 768px) {
-margin-top: 12px;
+margin-top: -80px;
       font-size: 32px;
   }
 `;

@@ -252,100 +252,77 @@ export const education = [
     degree: "High School Diploma",
   },
 ];
-
 export const projects = [
   {
     id: 9,
     title: "Sumz AI",
-    date: "Jun 2023 - Jul 2023",
-    description:
-      "Sumz is an AI summarizer that requires a URL Link and it will be able to generate a consise summary of the content",
-    image:
-      "/assets/sumzAI.png",
-    tags: [
-      "React JS",
-      "AWS",
-      "Vite",
-      "Rapid API",
-      "tailwind CSS",
-      "Node Js",
-      "Redux",
-    ],
+    date: "June 2023 - July 2023",
+    description: "Sumz AI is a web application that generates concise summaries of web content based on URL links.",
+    image: "/assets/sumzAI.png",
+    tags: ["React JS", "AWS", "Vite", "Rapid API", "Tailwind CSS", "Node Js", "Redux"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://astonishing-choux-4631d7.netlify.app/",
+    github: "https://github.com/jmenzies722/sums-AI",
+    webapp: "https://astonishing-choux-4631d7.netlify.app",
     member: [
       {
         name: "Josh Menzies",
         img: "IMG_2589.jpg",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
+        linkedin: "LinkedIn Profile",
+        github: "GitHub Profile",
       },
     ],
   },
   {
     id: 0,
     title: "Velocity Cube",
-    date: "Apr 2023 - May 2023",
-    description:
-      "Virtual 3D game using three JS. Endless cube runner game where the goal is to avoid the obtacles",
-    image:
-      "/assets/cube.png",
+    date: "April 2023 - May 2023",
+    description: "Velocity Cube is a 3D endless cube runner game developed using Three.js. Dodge obstacles and enjoy the challenge.",
+    image: "/assets/cube.png",
     tags: ["React Js", "Firebase", "Node Js", "Three JS", "Redux"],
     category: "other projects",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+    github: "https://github.com/jmenzies722/velocity-cube",
+    webapp: "Live Demo",
     member: [
       {
         name: "Josh Menzies",
         img: "IMG_2589.jpg",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
+        linkedin: "LinkedIn Profile",
+        github: "GitHub Profile",
       },
     ],
   },
   {
     id: 1,
     title: "Echo Equation",
-    date: "Oct 2022 - Present",
-    description:
-      "Calculator that allows voice input to perfrom mathematical calculations by just using your voice",
-    image:
-      "/assets/equations.png",
-    tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "NodeMailer",
-    ],
+    date: "October 2022 - Ongoing",
+    description: "Echo Equation is a voice-controlled calculator that allows you to perform mathematical calculations using your voice.",
+    image: "/assets/equations.png",
+    tags: ["React Js", "Node Js", "Redux", "Web Speech API"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    github: "GitHub Repository",
+    webapp: "Live Demo",
   },
   {
     id: 2,
     title: "Brain Tumor Detection",
-    date: "Jan 2023 - Mar 2023",
-    description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
-    image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+    date: "January 2023 - March 2023",
+    description: "Developed a machine learning model to detect brain tumors from medical images with an impressive accuracy of 99.2%.",
+    image: "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
     tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://brain-tumor.netlify.app/",
+    github: "GitHub Repository",
+    webapp: "Live Demo",
     member: [
       {
         name: "Josh Menzies",
         img: "IMG_2589.jpg",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
+        linkedin: "https://www.linkedin.com/in/josh-m123456/",
+        github: "https://github.com/jmenzies722https://github.com/jmenzies722",
       },
     ],
   },
 ];
+
 
 export const TimeLineData = [
   { year: 2017, text: "Started my journey" },
