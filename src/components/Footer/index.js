@@ -90,7 +90,7 @@ function Footer() {
       <FooterWrapper>
         <Logo>Josh M.</Logo>
         <Nav>
-          <NavLink href="#about">About</NavLink>
+          <NavLink href="#about">Home</NavLink>
           <NavLink href="#skills">Skills</NavLink>
           <NavLink href="#experience">Experience</NavLink>
           <NavLink href="#projects">Projects</NavLink>

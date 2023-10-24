@@ -5,7 +5,7 @@ export const Bio = {
     "Full Stack Developer",
     "AI/ML Engineer",
     "Computer Engineer",
-    "Basketball Fanatic"
+    "Basketball Enthusiast"
   ],
   description:
   "Hello! I'm Joshua Menzies, a computer engineering and computer science graduate with a strong passion for AI and software engineering. I specialize in crafting innovative software solutions. Beyond my professional life, I'm an avid basketball enthusiast and cherish quality time with family and friends. Let's connect on LinkedIn and explore the world of AI and software together!",
