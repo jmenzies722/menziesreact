@@ -27,10 +27,10 @@ const Projects = ({openModal,setOpenModal}) => {
             <ToggleButton value="web app" onClick={() => setToggle('web app')}>WEB APP'S</ToggleButton>
           }
           <Divider />
-          {toggle === 'android app' ?
-            <ToggleButton active value="android app" onClick={() => setToggle('android app')}>Other Projects</ToggleButton>
+          {toggle === 'other projects' ?
+            <ToggleButton active value="android app" onClick={() => setToggle('other projects')}>Other Projects</ToggleButton>
             :
-            <ToggleButton value="android app" onClick={() => setToggle('android app')}>Other Projects</ToggleButton>
+            <ToggleButton value="other projects" onClick={() => setToggle('other projects')}>Other Projects</ToggleButton>
           }
           <Divider />
           {toggle === 'machine learning' ?
