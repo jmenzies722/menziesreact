@@ -261,7 +261,7 @@ export const projects = [
     tags: ["React JS", "AWS", "Vite", "Rapid API", "Tailwind CSS", "Node Js", "Redux"],
     category: "web app",
     github: "https://github.com/jmenzies722/sums-AI",
-    webapp: "https://astonishing-choux-4631d7.netlify.app",
+    webapp: "https://sumzaiapp.netlify.app",
     member: [
       {
         name: "Josh Menzies",
