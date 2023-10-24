@@ -12,10 +12,9 @@ export const Bio = {
   github: "https://github.com/jmenzies722",
   resume:
     "/assets/MenziesJ-Resume.pdf",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  linkedin: "https://www.linkedin.com/in/josh-m123456/",
+  twitter: "",
+  insta: "",
 };
 
 export const skills = [
@@ -238,7 +237,7 @@ export const education = [
     img: "/assets/uhart_logo.jpeg",
     school: "University of Hartford, Hartford CT",
     date: "August 2019 - May 2023",
-    grade: "Dean's List (2020 - 2023) with a GPA of 3.64",
+    grade: "Dean's List (2020 - 2023)",
     desc: "Attained a Bachelor of Science in Computer Engineering and a Minor in Computer Science from the University of Hartford, excelling academically and gaining a strong foundation in these fields.",
     degree: "Bachelor of Science (BS) in Computer Engineering with a Minor in Computer Science",
   },
@@ -267,8 +266,8 @@ export const projects = [
       {
         name: "Josh Menzies",
         img: "IMG_2589.jpg",
-        linkedin: "LinkedIn Profile",
-        github: "GitHub Profile",
+        linkedin: "https://www.linkedin.com/in/josh-m123456/",
+        github: "https://github.com/jmenzies722https://github.com/jmenzies722",
       },
     ],
   },
@@ -286,8 +285,8 @@ export const projects = [
       {
         name: "Josh Menzies",
         img: "IMG_2589.jpg",
-        linkedin: "LinkedIn Profile",
-        github: "GitHub Profile",
+        linkedin: "https://www.linkedin.com/in/josh-m123456/",
+        github: "https://github.com/jmenzies722https://github.com/jmenzies722",
       },
     ],
   },
