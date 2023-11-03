@@ -3,7 +3,7 @@ export const Bio = {
   roles: [
     "Software Engineer",
     "Full Stack Dev",
-    "AI Engineer",
+    "ML/AI Engineer",
     "Computer Engineer",
     "Basketball Enthusiast"
   ],
