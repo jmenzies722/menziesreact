@@ -183,6 +183,26 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: './assets/nectar_services_logo.jpg',
+    role: "Software Engineer",
+    company: "Nectar Services Corp.",
+    date: "November 2023 - Present",
+    desc: "I have actively collaborated with the development team, taking on various roles within the company and am currently transitioning towards a DevOps-oriented position. I am proficient in utilizing automation tools to streamline processes and well-versed in Agile methodology, seamlessly integrating into our company's workflow. In addition to my roles, I have spearheaded the development of a Knowledge Base, enhancing its capability to answer 80-85% of 'How to' questions and security inquiries. Leveraging GPT AI, I refine responses, ensuring accuracy and reducing response time for enhanced operational efficiency.",
+    skills: [
+      "Jira",
+      "Java",
+      "CI-Jenkins",
+      "Docker",
+      "Java",
+      "Testing Framework",
+      "Selenium Web Driver",
+      "Maven Build Tool",
+      "GIT Version Control",
+    ],
+  },
+
+  {
+    id: 1,
     img: "./assets/neb.png",
     role: "Full Stack Software Engineer at Nebula Academy",
     company: "Nebula Academy",
@@ -265,7 +285,7 @@ export const projects = [
     member: [
       {
         name: "Josh Menzies",
-        img: "IMG_2589.jpg",
+        img: "./assets/IMG_3194.jpg",
         linkedin: "https://www.linkedin.com/in/josh-m123456/",
         github: "https://github.com/jmenzies722https://github.com/jmenzies722",
       },
@@ -284,7 +304,7 @@ export const projects = [
     member: [
       {
         name: "Josh Menzies",
-        img: "IMG_2589.jpg",
+        img: "./assets/IMG_3194.jpg",
         linkedin: "https://www.linkedin.com/in/josh-m123456/",
         github: "https://github.com/jmenzies722https://github.com/jmenzies722",
       },
@@ -314,7 +334,7 @@ export const projects = [
     member: [
       {
         name: "Josh Menzies",
-        img: "IMG_2589.jpg",
+        img: "./assets/IMG_3194.jpg",
         linkedin: "https://www.linkedin.com/in/josh-m123456/",
         github: "https://github.com/jmenzies722https://github.com/jmenzies722",
       },
